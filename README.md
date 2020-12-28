@@ -1,6 +1,5 @@
 # Ryan Roderick
 
-### I love:
 <br>
 <p>
   <img alt="Ember" src="https://img.shields.io/badge/Ember-orange?logo=ember.js&logoColor=white&style=for-the-badge" />
